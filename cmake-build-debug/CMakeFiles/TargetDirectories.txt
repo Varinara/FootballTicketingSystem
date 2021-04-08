@@ -1,0 +1,3 @@
+C:/Users/Artyom/CLionProjects/UML/cmake-build-debug/CMakeFiles/UML.dir
+C:/Users/Artyom/CLionProjects/UML/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Artyom/CLionProjects/UML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
